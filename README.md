@@ -1,24 +1,8 @@
-# vuetify-todo
+# project management front end
 
-## Project setup
-```
-yarn install
-```
+***made with vuejs +vuetify(material design)***
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+---
+### see the demo here
+[https://alientodo.web.app/](https://alientodo.web.app/)
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
